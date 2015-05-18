@@ -12,7 +12,7 @@
 ## Directions ##
 * cd into the directory and run `npm install`
 * Run `gulp` and it will pull in all dependencies and compile.
-* Run 'gulp watch' to watch and compile the SASS files
+* Run `gulp watch` to watch and compile the SASS files
 
 ## File Tree Explaination ##
 * /resoures - contains the SCSS files
