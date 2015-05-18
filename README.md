@@ -4,7 +4,7 @@
 
 ## Installation ##
 1. Download and install [Ruby](https://www.ruby-lang.org/en/).
-2. Open command line and type "gem install sass".
+2. Open command line and type `gem install sass`.
 2. Clone or Download project straight from GitHub
 3. Extract the zip file and start working.
 
