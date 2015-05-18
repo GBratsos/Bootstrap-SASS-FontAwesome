@@ -25,4 +25,4 @@
 
 You can use [Brackets](http://brackets.io/).
 
-Check out some awesome [Plugins]((https://github.com/GBratsos/brackets-zurb-foundation) for Brackets text editor.
+Check out some awesome [Plugins](https://github.com/GBratsos/brackets-zurb-foundation) for Brackets text editor.
