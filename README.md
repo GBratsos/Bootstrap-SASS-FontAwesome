@@ -13,7 +13,7 @@
 
 ## Directions ##
 * cd into the directory and run `npm install`.
-* Run `gulp` and it will pull in all dependencies and compile.
+* Run `gulp` and it will pull in all dependencies and compile. (if you get an error run again)
 * Run `gulp watch` to watch and compile the SASS files.
 
 ## File Tree Explaination ##
