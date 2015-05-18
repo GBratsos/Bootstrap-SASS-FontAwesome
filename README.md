@@ -7,7 +7,7 @@
 3. Extract the zip file and start working.
 
 ## Updates ##
-* 1.0.0, 7/11/2014 - Initial release, Added Bootstrap SASS Official 3.3.3, FontAwesome 4.3.0 and all its dependencies.
+* 1.0.0, 5/18/2015 - Initial release, Added Bootstrap SASS Official 3.3.3, FontAwesome 4.3.0 and all its dependencies.
 
 ## Directions ##
 * cd into the directory and run `npm install`
@@ -24,4 +24,5 @@
 ## Recommended Text Editor ##
 
 You can use [http://brackets.io/](Brackets)
+
 Check out some awesome Plugins for Brackets text editor [https://github.com/GBratsos/brackets-zurb-foundation](https://github.com/GBratsos/brackets-zurb-foundation).
