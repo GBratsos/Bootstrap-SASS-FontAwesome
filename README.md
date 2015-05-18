@@ -23,6 +23,6 @@
 
 ## Recommended Text Editor ##
 
-You can use [Brackets](http://brackets.io/)
+You can use [Brackets](http://brackets.io/).
 
-Check out some awesome Plugins for Brackets text editor [https://github.com/GBratsos/brackets-zurb-foundation](https://github.com/GBratsos/brackets-zurb-foundation).
+Check out some awesome [Plugins]((https://github.com/GBratsos/brackets-zurb-foundation) for Brackets text editor.
