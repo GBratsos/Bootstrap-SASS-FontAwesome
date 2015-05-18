@@ -21,6 +21,11 @@
 ## License ##
 [MIT License](LICENSE)
 
+## SASS Resources ##
+* Learn about [SASS](http://sass-lang.com/guide).
+
+
+
 ## Recommended Text Editor ##
 
 You can use [Brackets](http://brackets.io/).
