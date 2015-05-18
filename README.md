@@ -1,5 +1,7 @@
 # Bootstrap-SASS-FontAwesome #
 
+![Bootstrap-SASS-FontAwesome](website/images/bootstrap-sass.jpg)
+
 ## Installation ##
 1. Download and install Ruby.
 2. Open command line and type "gem install sass".
