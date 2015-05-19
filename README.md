@@ -3,10 +3,11 @@
 ![Bootstrap-Sass-FontAwesome](website/images/bootstrap-sass.jpg)
 
 ## Installation ##
-1. Download and install [Ruby](https://www.ruby-lang.org/en/).
-2. Open command line and type `gem install sass`.
-2. Clone or Download project straight from GitHub.
-3. Extract the zip file and start working.
+1. Download and install [NodeJS](https://nodejs.org/).
+2. Download and install [Ruby](https://www.ruby-lang.org/en/).
+3. Open command line and type `gem install sass`.
+4. Clone or Download project straight from GitHub.
+5. Extract the zip file and start working.
 
 ## Updates ##
 * 1.0.0, 5/18/2015 - Initial release, Added Bootstrap Sass Official 3.3.3, FontAwesome 4.3.0 and all its dependencies.
