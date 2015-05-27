@@ -26,7 +26,8 @@
 
 ## Sass Resources ##
 * Learn about [SASS](http://sass-lang.com/guide).
-* Learn about [Twitter Bootstrap](http://getbootstrap.com/css/)
+* Tutorial about [SASS](http://leveluptuts.com/tutorials/sass-tutorials).
+* Learn about [Twitter Bootstrap](http://getbootstrap.com/css/).
 
 ## Recommended Text Editor ##
 
