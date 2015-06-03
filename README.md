@@ -29,6 +29,9 @@
 * Tutorial about [SASS](http://leveluptuts.com/tutorials/sass-tutorials).
 * Learn about [Twitter Bootstrap](http://getbootstrap.com/css/).
 
+## Recommended SASS compiler ##
+You can use [Koala app](http://koala-app.com/).
+
 ## Recommended Text Editor ##
 
 You can use [Brackets](http://brackets.io/).
