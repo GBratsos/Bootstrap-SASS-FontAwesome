@@ -10,12 +10,20 @@
 5. Extract the zip file and start working.
 
 ## Updates
+* 2.0.0, 6/24/2015 - Added uncss, autoprefix, minify and auto-update to HTML files.
 * 1.0.0, 5/18/2015 - Initial release, Added Bootstrap Sass Official 3.3.3, FontAwesome 4.3.0 and all its dependencies.
 
 ## Directions
 * cd into the directory and run `npm install`.
 * Run `gulp` and it will pull in all dependencies and compile. (if you get an error run again)
 * Run `gulp watch` to watch and compile the SASS files.
+
+When finished development
+* Run `grunt clean` to uncss, autoprefix, minify and auto-update your HTML files.
+
+## Updating configuration
+* At [Gruntfile.js](https://github.com/GBratsos/Zurb-Foundation-SASS/blob/master/Gruntfile.js) on lines 22 and 52 you can insert your project files in order to automatically get updated with the minified CSS file.
+* At [config.rb](https://github.com/GBratsos/Zurb-Foundation-SASS/blob/master/config.rb) you can edit the SASS configuration.
 
 ## File Tree Explaination
 * /resoures - contains the SCSS files.
